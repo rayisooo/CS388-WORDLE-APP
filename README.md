@@ -6,8 +6,7 @@
 - [DONE] **After each guess, user sees the "correctness" of the guess**
 - [DONE] **After all guesses are taken, user can see the target word displayed**
 
-![](https://user-images.githubusercontent.com/44685969/215696376-9e8b9137-2d74-4532-834d-31c56a3606c1.gif)
-
+<img src="https://user-images.githubusercontent.com/44685969/216223920-079d4b63-c811-4268-a27f-7ebef8ff8247.gif", width=250 />
 
 Describe any challenges encountered while building the app.
 CHALLENGES I FACE WHERE GETTING THE CHECK GUESS TO WORK PROPERLY
